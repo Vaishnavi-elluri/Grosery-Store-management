@@ -51,4 +51,8 @@ The goal is to demonstrate **real-world SQL problem-solving** through complex qu
 - Improved understanding of relational databases and data analysis workflows.  
 
 ---
+📬 Contact / Connect with Me
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-elluri-721293289/ 
+- Email: ellurivaishnavi55@gmail.com
+
 
